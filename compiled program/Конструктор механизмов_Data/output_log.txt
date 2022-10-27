@@ -1,0 +1,80 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R2 Graphics (ID=0x9853)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\ExcelLibrary.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\ExcelLibrary.dll into Unity Child Domain
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\Ookii.Dialogs.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\Ookii.Dialogs.dll into Unity Child Domain
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.322300 ms
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: C:\Users\Валентин\Desktop\Конструктор механизмов_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library C:/Users/Валентин/Desktop/Конструктор механизмов_Data/Mono/libc
+Fallback handler could not load library C:/Users/Валентин/Desktop/Конструктор механизмов_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/Валентин/Desktop/Конструктор механизмов_Data/Mono/libc
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: afc -> priority: 1 
